@@ -8,10 +8,8 @@ Steps of the genetic algorithm are implemented in the class [GAUtils](TSPGA/GAUt
 Process of elitism is implemented to ensure the best chromosomes from generation are transferred to next generation
 unchanged. If you don't want to use elitism you should comment/remove this line from [Simulation](TSPGA/Simulation.cs) file
 ```csharp
-public class MyMutationOperator : IMutationOperator
-{
-	newPop.AddRange(pop.OrderBy(x => x.fitnessValue).ToList().Take(20));
-}
+newPop.AddRange(pop.OrderBy(x => x.fitnessValue).ToList().Take(20));
+
 ```
 
 ## This project contains

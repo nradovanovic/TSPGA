@@ -1,0 +1,165 @@
+Simulation ran 10 times with maximum generations 200
+Optimal length is: 7528.17840838357
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 11080.2958328049 Average: 13801.1617615313 Worst: 18484.6610031849
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 11272.536204546 Average: 12013.0435247581 Worst: 13372.9171081572
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 11552.8629465999 Average: 12094.4981778628 Worst: 12656.7017328897
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 10707.0141200626 Average: 13059.588995435 Worst: 17351.8349923841
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 10767.7680010629 Average: 12341.6743990836 Worst: 15007.0993307538
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 10270.0194997364 Average: 11582.5499787455 Worst: 13487.7857171974
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 10918.6825223877 Average: 11981.5188311301 Worst: 13762.247520416
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 10613.9824092408 Average: 12006.6684703172 Worst: 17107.2149230299
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 10036.0540650257 Average: 11062.9201408423 Worst: 11936.7800131292
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 13780.9898942277 Average: 14900.313750009 Worst: 16198.9688642622
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 12714.0913734805 Average: 13628.7724071322 Worst: 17121.6259006783
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 12240.4033397618 Average: 12989.1900594282 Worst: 13758.9992740427
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 12987.5527417225 Average: 14116.9223745224 Worst: 15573.950170926
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 11549.5770374418 Average: 13213.8881220948 Worst: 14116.8889510429
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 11520.2217154771 Average: 12681.9876450153 Worst: 13529.2851088144
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 11893.3678838869 Average: 13866.7670871767 Worst: 15138.6132212033
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 11495.8313002648 Average: 13088.8117325742 Worst: 14777.4852425903
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 11233.4633727016 Average: 12333.2199493013 Worst: 13214.9901174922
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 10883.0116756523 Average: 11670.746420308 Worst: 12239.7968328338
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 10251.4562149216 Average: 10717.9518609957 Worst: 11652.5723252097
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 10267.9322382125 Average: 10711.7104478121 Worst: 11347.8854845273
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 10506.1932946088 Average: 11774.2702196522 Worst: 12426.1739406356
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 10169.21473955 Average: 10871.6940980679 Worst: 11899.4744103225
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 9373.83355759282 Average: 10581.453437993 Worst: 11640.317471432
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 10846.0076305157 Average: 11735.7973203002 Worst: 12662.4104572043
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 10631.9262702525 Average: 11073.771003839 Worst: 11571.160189533
+----------------------------------------------------
+Crossover operator: PartiallyMappedCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 9456.62871305272 Average: 10221.7952639441 Worst: 10740.5101570835
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 9412.42009635413 Average: 10239.8775813017 Worst: 11542.4758230229
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 9510.49331609103 Average: 10335.0932910296 Worst: 10773.4352717681
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 9442.14977268639 Average: 10334.196151771 Worst: 11324.0642437168
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 9069.11750202122 Average: 9924.52199188553 Worst: 10857.1420805584
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 10015.0983723622 Average: 10580.2271652752 Worst: 11256.0603302227
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 9448.09566149469 Average: 10294.1347938591 Worst: 11171.802224391
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 9212.87345587445 Average: 10137.9344110836 Worst: 11229.0440585423
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 9462.71669113237 Average: 10129.2512377474 Worst: 10743.5346772717
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: CentreInverseMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 9566.8747947767 Average: 10182.6670569736 Worst: 10809.9849811335
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 9435.58757138233 Average: 10828.4560231085 Worst: 12072.5460405776
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 10596.4836291621 Average: 12083.3101886221 Worst: 15014.474962364
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 11545.2816707534 Average: 13885.111910251 Worst: 16804.8279613116
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 9803.83187362434 Average: 10311.9073572129 Worst: 11578.9488165551
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 9949.86918323886 Average: 10805.5905579739 Worst: 11605.0352020995
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 9185.58810917685 Average: 11402.1672397408 Worst: 14531.0315052912
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 9810.80711075243 Average: 10239.4627263401 Worst: 10961.9386227546
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 9538.24533292147 Average: 10167.6174806074 Worst: 11102.5864040042
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: SwapMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 9360.48672487323 Average: 10714.8788582496 Worst: 11982.0231871888
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.1 , Population size: 100
+Best: 9902.08910905102 Average: 10550.5765183816 Worst: 11158.4322771153
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.2 , Population size: 100
+Best: 9181.24339363428 Average: 10001.0797025317 Worst: 10568.706953929
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.7, mutation Probability: 0.3 , Population size: 100
+Best: 9136.02161767773 Average: 10015.287192084 Worst: 10645.8026495349
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.1 , Population size: 100
+Best: 8965.76292329292 Average: 10029.5640408524 Worst: 10861.9520458933
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.2 , Population size: 100
+Best: 9473.44869155546 Average: 10032.1187169554 Worst: 10479.6701003895
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.8, mutation Probability: 0.3 , Population size: 100
+Best: 8827.91255043691 Average: 9849.35963014531 Worst: 10657.9945758067
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.1 , Population size: 100
+Best: 9415.09200283535 Average: 10123.7602025266 Worst: 11302.8657049496
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.2 , Population size: 100
+Best: 9118.9767049435 Average: 9833.10836845759 Worst: 10433.0525404218
+----------------------------------------------------
+Crossover operator: OrderCrossoverOperator, Mutation operator: ReverseSequenceMutationOperator, Crossover probability: 0.9, mutation Probability: 0.3 , Population size: 100
+Best: 9147.22706741924 Average: 9747.28883596413 Worst: 10251.5293156677
+----------------------------------------------------

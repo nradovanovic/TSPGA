@@ -1,0 +1,6 @@
+D:\Svasta\CS\TSPGA\TSPGA\bin\Debug\TSPGA.exe.config
+D:\Svasta\CS\TSPGA\TSPGA\bin\Debug\TSPGA.exe
+D:\Svasta\CS\TSPGA\TSPGA\bin\Debug\TSPGA.pdb
+D:\Svasta\CS\TSPGA\TSPGA\obj\Debug\TSPGA.csprojResolveAssemblyReference.cache
+D:\Svasta\CS\TSPGA\TSPGA\obj\Debug\TSPGA.exe
+D:\Svasta\CS\TSPGA\TSPGA\obj\Debug\TSPGA.pdb

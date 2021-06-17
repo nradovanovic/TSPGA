@@ -67,7 +67,7 @@ simulation.runSimulation();
 ```
 
 ### Example results
-Running and example on [berlin52.txt](TSPGA/bin/Debug/berlin52.txt) testing all mutation and crossover operators with generation si..
-Best soluton OrderCrossoverOperator for crossover and ReverseSequenceMutationOperator with 0.9 crossover probability and 0.3 mutation probability
+Running and example on [berlin52.txt](TSPGA/bin/Debug/berlin52.txt) testing all mutation and crossover operators with generation on 10 simulations with maximum generation size of 200.
+Best soluton is provided by OrderCrossoverOperator for crossover and ReverseSequenceMutationOperator with 0.9 crossover probability and 0.3 mutation probability
 Best: 8965.85907275254 Average: 9753.54665457777 Worst: 10398.9931042185.
 Optimal solution is: 7528.17840838357.
